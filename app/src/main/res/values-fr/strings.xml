@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mon App de Film</string>
+    <string name="search">Rechercher</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="most_popular">Films Populaires</string>
+    <string name="action_settings">Paramètres</string>
+</resources>
